@@ -1,13 +1,13 @@
 # PROJECT_FINAL_VERSION
 Arda Deniz Küçükçoban
 My app’s details
-•	Server:
-o	Store reservations
-o	Table number
-o	Managers information
-•	Client:
-o	Choosing the user type.
-o	Restaurant manager:
+*	Server:
+**	Store reservations
+**	Table number
+**	Managers information
+*	Client:
+**	Choosing the user type.
+**	Restaurant manager:
 	Determining the number of tables.
 	Numbering each table.
 	Updates the availability of the tables
